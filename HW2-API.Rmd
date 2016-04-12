@@ -64,6 +64,8 @@ Map of the traffic incidents:
 As we saw traffic incidents are very common in other regions as well.
 We were suprised by the low amount of accidents.
 
+We are recommending to investigate the following topics:
+
 1. See if the data is consistent(to verify that the numbers aren't low/high compared to other days)
 2. Compare the data to data based on Israel region.
 3. Investigate the number road traffic injuries and death.
